@@ -3,5 +3,3 @@ This project was create to demonstrate to COMP314 how Jenkins works with GitHub.
 Adding lines for testing!
 
 Testing!
-
-Testing again.
