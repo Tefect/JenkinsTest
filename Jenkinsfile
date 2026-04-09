@@ -19,7 +19,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/kestonbhola/jenkinstest.git/', branch: 'main'
+                git url: 'https://github.com/Tefect/JenkinsTest/', branch: 'main'
             }
         }
 
